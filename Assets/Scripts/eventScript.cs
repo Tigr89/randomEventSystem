@@ -66,6 +66,6 @@ public class eventScript : MonoBehaviour
         if (eventWeight == 0) return true;
 
 
-        return false;
+        return true;
     }
 }
